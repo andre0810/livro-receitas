@@ -1,9 +1,9 @@
-#Lasanha de Frango à Bolonhesa 
+# Lasanha de Frango à Bolonhesa 
 
 **negrito**
 _italico_
 
-###INGREDIENTES
+### INGREDIENTES
  - 1 massa de lasanha
  - 500 g carne moída
  - 3 peitos de frango
@@ -12,7 +12,7 @@ _italico_
  - massa de tomate
  - temperos (2 tomates, cebola, orégano, alho e caldo knorr)
 
-###MODO DE PREPARO
+### MODO DE PREPARO
 1. Em uma panela, adicione um pouco de óleo, toda a carne moída e mexa até soltar água.
 2. Deixe até dourar e, em seguida, acrescente um pouco de alho, 1 tablete e meio de caldo knorr, tomate, cebola e massa de tomate, misture tudo e acrescente água.
 3. Em seguida, já desfiado e desossado em outra panela, acrescente o peito de frango.
